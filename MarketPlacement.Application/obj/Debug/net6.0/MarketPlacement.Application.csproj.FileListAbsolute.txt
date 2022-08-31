@@ -1,0 +1,15 @@
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/bin/Debug/net6.0/MarketPlacement.Application.deps.json
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/bin/Debug/net6.0/MarketPlacement.Application.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/bin/Debug/net6.0/MarketPlacement.Application.pdb
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/bin/Debug/net6.0/MarketPlacement.Domain.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/bin/Debug/net6.0/MarketPlacement.Domain.pdb
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.csproj.AssemblyReference.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.AssemblyInfoInputs.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.AssemblyInfo.cs
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.csproj.CoreCompileInputs.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.csproj.CopyComplete
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/refint/MarketPlacement.Application.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/MarketPlacement.Application.pdb
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Application/obj/Debug/net6.0/ref/MarketPlacement.Application.dll

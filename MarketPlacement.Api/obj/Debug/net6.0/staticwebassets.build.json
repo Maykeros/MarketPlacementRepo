@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nm7/dmGfSu0vBGEyeaeCZOOFrwKFPPGwVcB4rR7TViI=",
+  "Source": "MarketPlacement.Api",
+  "BasePath": "_content/MarketPlacement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

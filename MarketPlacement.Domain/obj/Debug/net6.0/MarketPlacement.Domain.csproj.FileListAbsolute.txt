@@ -1,0 +1,12 @@
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/bin/Debug/net6.0/MarketPlacement.Domain.deps.json
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/bin/Debug/net6.0/MarketPlacement.Domain.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/bin/Debug/net6.0/MarketPlacement.Domain.pdb
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.csproj.AssemblyReference.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.AssemblyInfoInputs.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.AssemblyInfo.cs
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.csproj.CoreCompileInputs.cache
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/refint/MarketPlacement.Domain.dll
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/MarketPlacement.Domain.pdb
+/Users/turchynovychnazarii/RiderProjects/MarketPlacement/MarketPlacement.Domain/obj/Debug/net6.0/ref/MarketPlacement.Domain.dll
