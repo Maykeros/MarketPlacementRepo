@@ -7,7 +7,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Repositories;
-using Repositories.Authentication;
 
 public static class DependencyInjection
 {
