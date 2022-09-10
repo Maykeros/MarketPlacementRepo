@@ -53,7 +53,7 @@ public class AccountController : ControllerBase
         return Ok(await _accountService.GetAccessTokenAsync(userDto));
     }
     
-    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "admin")]
+    [Authorize(Roles = "user")]
     [HttpGet("profile")]
     public async Task<IActionResult> GetProfile(int userId)
     {

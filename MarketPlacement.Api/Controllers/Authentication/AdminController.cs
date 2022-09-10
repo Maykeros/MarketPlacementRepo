@@ -3,8 +3,10 @@ namespace MarketPlacement.Api.Controllers.Authentication;
 using System.ComponentModel.DataAnnotations;
 using Domain.DTOs.Authentication;
 using Domain.Services.Authentication;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-
+[Authorize(Roles = "user")]
 public class AdminController : ControllerBase
 {
     private readonly IAdminService _adminService;
