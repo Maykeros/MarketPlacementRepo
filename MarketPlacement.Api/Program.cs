@@ -10,6 +10,7 @@ using MarketPlacement.Infrastructure;
 using MarketPlacement.Infrastructure.Authentication;
 using MarketPlacement.Infrastructure.Repositories;
 using MarketPlacement.Infrastructure.Repositories.Authentication;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
@@ -39,7 +40,7 @@ builder.Services
 
 var configurationSettings = new JwtSettings();
 builder.Configuration.Bind("JwtSettings", configurationSettings);
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+builder.Services.AddAuthentication(options => options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
         options.TokenValidationParameters = new TokenValidationParameters
